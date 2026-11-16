@@ -1,0 +1,6 @@
+run = "streamlit run app.py"
+language = "python3"
+
+[[ports]]
+localPort = 8080
+externalPort = 80
